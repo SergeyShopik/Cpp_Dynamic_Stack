@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\DynamicStack\Source.cpp(186): warning C4715: popFrontRing: значение возвращается не при всех путях выполнения
+  DynamicStack.vcxproj -> C:\Users\HP\source\repos\DynamicStack\Debug\DynamicStack.exe
